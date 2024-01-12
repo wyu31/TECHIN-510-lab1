@@ -9,6 +9,6 @@ git add .
 git status
 git commit -m "xxx"
 git log
-git push origin main
 git pull origin main
+git push origin main
 ## Questions / Uncertainties
